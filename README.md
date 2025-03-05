@@ -7,4 +7,4 @@
 
 This is a boilerplate project for creating RESTful APIs using Flask, Celery, RabbitMQ and PostgreSQL.
 
-test
+🚧 Work in progress... 🚧
